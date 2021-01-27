@@ -1,4 +1,4 @@
-# Bambooeuros
+# Bambeuros
 
 ### Requirements:
 
